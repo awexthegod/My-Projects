@@ -1,0 +1,6 @@
+{
+  "name": "EMS Evaluator & Sourcing Engine",
+  "description": "Expert procurement and supply-chain intelligence system for vetting, scoring, and discovering high-power, high-reliability Electronics Manufacturing Services (EMS) and Contract Manufacturers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
